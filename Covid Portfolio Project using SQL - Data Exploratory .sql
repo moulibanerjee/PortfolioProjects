@@ -4,6 +4,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 */
 
+
 --Select data from CovidDeaths$ table
 
 Select * 
