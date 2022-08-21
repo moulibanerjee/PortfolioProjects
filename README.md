@@ -7,3 +7,5 @@ SQL queries on Covid Deaths and vaccinations
 Tableau Dashboard on Covid deaths and Infection 
 
 Python Code on Movies Budget and Gross Correlation
+
+Excel Financial Model 
