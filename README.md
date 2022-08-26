@@ -8,4 +8,6 @@ Tableau Dashboard on Covid deaths and Infection
 
 Python Code on Movies Budget and Gross Correlation
 
-Excel Financial Model 
+Excel Financial Model
+
+Excel Dashboard using pivot table and visualization.
